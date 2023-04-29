@@ -18,5 +18,5 @@ def dichotomie(e):
         print('a=',a,'b=',b)
     return (a+b)/2
 
-e=float(input("e value: ")) # epsilon is most likely going to be a float if you deal with small numbers
+e=float(input("e value: ")) #epsilon is most likely going to be a float if you deal with small numbers
 print(dichotomie(e))
